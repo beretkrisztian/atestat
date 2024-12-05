@@ -1,1 +1,1 @@
-# Acesta este atestatul meu
+# Acesta este atestatul meu. Pe scurt este vorba despre un joc scris in python cu ajutorul extensiei PyGame. V-a fi un joc simplu despre un personaj si lupta lui cu imaginatia sa. Deocamdata am creat doar o animatie neutra si un cod pentru a permite mobilitatea lui in axa de coordonate xy.
