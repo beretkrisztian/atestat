@@ -74,6 +74,7 @@ moving_sprites = pygame.sprite.Group()
 player = Player(100, 100)
 moving_sprites.add(player)
 
+
 # Main game loop
 run = True
 while run:
