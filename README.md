@@ -1,1 +1,1 @@
-# Acesta este atestatul meu. Pe scurt este vorba despre un joc scris in python cu ajutorul extensiei PyGame. Deocamdata am creat doar o animatie neutra si un cod pentru a permite mobilitatea lui in axa de coordonate xy.
+# Acesta este atestatul meu. Pe scurt este vorba despre un joc scris in python cu ajutorul extensiei PyGame. Deocamdata am creat doar o animatie neutra a unui caracter si un cod pentru a permite mobilitatea lui in axa de coordonate xy.
